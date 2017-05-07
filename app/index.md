@@ -1,48 +1,48 @@
-# Andrea Takamiya
+# Nicole Sandry
 
-1. 123 Manoa Drive Honolulu, HI 96822
-1. (808) 555-5555
-1. [https://github.com/andimiya](https://github.com/andimiya)
-1. [linkedin-url](linkedin-url)
+1. 91-858 Oaniani Street Kapolei, HI 96707
+1. (808) 392-1808
+1. [https://github.com/nms377](https://github.com/nms377)
+1. [linkedin-url](https://www.linkedin.com/in/nicolesandry)
 
 ## Objective
-I am a web developer...(what profession are you seeking?)
+I am a web developer seeking an entryl-level position as a UX Designer.
 
 ## Development Experience
 
-### Final Project Name 1
-#### [https://github.com/username/project](https://github.com/username/project)
-##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+### Hele
+#### [hele.io](https://hele.io/)
+##### May 2017
+- Trip planning web based application that saves upcoming travel information in a personal itinerary
+- Setup initial database using PostgreSQL, designed UI using React and SASS
+- Project was deployed with key features deployed (search flights, hotels, cars and save to itinerary)
 
-### Hackathon Project Name 2
-#### [http://url.com](http://url.com)
+### Luggage LeiOver
+#### [https://github.com/danimi65/ATTHackathon-luggage](https://github.com/danimi65/ATTHackathon-luggage)
 ##### March 2017
-- Describe the project.
-- What did you contribute?
-- What were the outcomes (if any) of this project?
+- Mock website for luggage storage and delivery business servicing tourists staying at hotels in Waikiki, Oahu.
+- Setup and maintained database using PostgreSQL, designed UI using Handlebars.js
+- All database and form layouts were made from scratch, UI designs were handles using a bootstrap CSS template
 
 ## Professional Experience
 
-### Online Experience Manager
-#### Hawaiian Airlines Honolulu
-##### HI 2014 – Present  
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus feugiat metus orci, vitae egestas sapien tincidunt ac.
+### Executive Assistant
+#### Handcrafted Restaurants, LLC
+##### HI 2013 – Present  
+- Design and maintain menus, branding, and marketing materials using InDesign, Illustrator, and Photoshop.
+- Curate social media content and e-mail marketing using Fishbowl marketing services. Contribute a positive increase of +4,000 followers on Instagram and +12,000 followers on Facebook
+- Coordinate and design materials for print advertisement in local and national travel and hospitality publications.
 
 ## Education
 ### DevLeague
 #### Explanation of what this is
-##### Jan - June 2017
+##### Nov 2016 - May 2017
 
-### Bachelor of Arts in Business Administration 
-#### Concentration in Marketing and International Business 
-#### Cumulative GPA: 3.74
-##### University of Oregon, 2005 – 2007
-##### University of Hawaii at Manoa , 2008 – 2009 
+### Bachelor of Arts in Interdisciplinary Studies
+#### Concentration in Social Entrepreneuship and Performance Studies
+#### Minor in Social Entrepreneuship
+#### Cumulative GPA: 3.76
+##### New York University - Gallatin School of Individualized Study, 2011 – 2013
 
 ## Technical Skills
 
@@ -67,19 +67,15 @@ I am a web developer...(what profession are you seeking?)
 - React
 - Redux
 - Angular
-- D3
 - SASS
 
 ### Server-Side Proficiencies
 - NodeJS
 - Express
-- Jade
-- Sequelize/Mongoose ORM
-- GraphQl
+- Sequelize ORM
 
 ### Database Proficiencies
 - PostgreSQL 
-- MongoDB
 
 ### Workflow/Testing Utilities
 - Git
@@ -89,13 +85,8 @@ I am a web developer...(what profession are you seeking?)
 - SuperTest
 
 ### Business Development
-- Sitecore CMS ( Sitecore Certified)
-- Sitecore OMS (Sitecore Certified)
-- Sitecore DMS (Sitecore Certified)
-- Adobe Sitecatalyst (Omniture)
-- Adobe Test & Target
-- Farelogix Merchandising System Microsoft Sharepoint CMS
-- Web layouts and wire-framing
-- Adobe Photoshop CS6
-- Adobe Illustrator CS6
+- Adobe InDesign CC
+- Adobe Photoshop CC
+- Adobe Illustrator CC
+- Adobe Lightroom CC
 - Google AdWords
