@@ -1,47 +1,52 @@
 # Nicole Sandry
 
-1. 91-858 Oaniani Street Kapolei, HI 96707
 1. (808) 392-1808
+1. [nsandry@gmail.com](mailto:nsandry@gmail.com)
 1. [https://github.com/nms377](https://github.com/nms377)
-1. [linkedin-url](https://www.linkedin.com/in/nicolesandry)
-
-## Objective
-I am a web developer seeking an entryl-level position as a UX Designer.
+1. [https://www.linkedin.com/in/nicolesandry](https://www.linkedin.com/in/nicolesandry)
 
 ## Development Experience
 
 ### Hele
 #### [hele.io](https://hele.io/)
 ##### May 2017
-- Trip planning web based application that saves upcoming travel information in a personal itinerary
-- Setup initial database using PostgreSQL, designed UI using React and SASS
-- Project was deployed with key features deployed (search flights, hotels, cars and save to itinerary)
-
-### Luggage LeiOver
-#### [https://github.com/danimi65/ATTHackathon-luggage](https://github.com/danimi65/ATTHackathon-luggage)
-##### March 2017
-- Mock website for luggage storage and delivery business servicing tourists staying at hotels in Waikiki, Oahu.
-- Setup and maintained database using PostgreSQL, designed UI using Handlebars.js
-- All database and form layouts were made from scratch, UI designs were handles using a bootstrap CSS template
+- Trip planning application that creates personal travel itineraries
+- Setup database with PostgreSQL and designed UI with React and SASS
 
 ## Professional Experience
 
 ### Executive Assistant
 #### Handcrafted Restaurants, LLC
-##### HI 2013 – Present  
-- Design and maintain menus, branding, and marketing materials using InDesign, Illustrator, and Photoshop.
-- Curate social media content and e-mail marketing using Fishbowl marketing services. Contribute a positive increase of +4,000 followers on Instagram and +12,000 followers on Facebook
-- Coordinate and design materials for print advertisement in local and national travel and hospitality publications.
+##### HI Aug 2013 – Present  
+- Assist C-suite executives with the daily operations of existing and developing restaurant concepts
+- Coordinate with third party developers and designers to maintain company websites and storefronts
+- Manage online reputation and marketing while building a following of 4,000+ on Instagram and 12,000+ on Facebook
+- Established social media guidelines to maintain brand consistency and messaging on Instagram and Facebook
+- Design print collateral, magazine ads, banners, posters, signage, and photography
+- Established menu editing protocols in the General Operating Manual to maintain brand and product consistency
+- Assist with investor relations
+
+### Resident Assistant
+#### Office of Residential Life & Housing Services at New York University
+##### NY Aug 2012 – May 2013  
+- Created weekly floor emails and program marketing collateral for 49 student residents
+- Collaborated with a student staff of 16 and 3 professional staff members on programs and administrative responsibilities to foster a positive living and learning community
+- Received intensive training and professional development in leadership, mediation, and communication with students and families
+
+### Corps Member
+#### AmeriCorps Jumpstart at New York University
+##### NY Sept 2011 - May 2012
+- Collaborated with a student staff of 5 providing individualized attention and positive adult-child relationships to prepare children in low-income neighborhoods for school success
+- Implemented early childhood curriculum, supported family involvement, promoted children’s language and literacy skills through ongoing relationships, and increased adult support in classrooms
+- Received intensive training and professional development in early childhood theory and practice, language and literacy development, leadership skills, and communication with families
 
 ## Education
 ### DevLeague
-#### Explanation of what this is
+#### Completed 800+ hours learning modern web development languages and best practices for building data driven applications. Contributed to a team focused, project oriented learning environment to build an online portfolio.
 ##### Nov 2016 - May 2017
 
 ### Bachelor of Arts in Interdisciplinary Studies
-#### Concentration in Social Entrepreneuship and Performance Studies
-#### Minor in Social Entrepreneuship
-#### Cumulative GPA: 3.76
+#### Communications with a Minor in Social Entrepreneurship
 ##### New York University - Gallatin School of Individualized Study, 2011 – 2013
 
 ## Technical Skills
@@ -54,15 +59,12 @@ I am a web developer seeking an entryl-level position as a UX Designer.
 
 ### Web Skills
 - Responsive/Mobile First Web Development
-- Test/Behavior Driven Development
-- Relational - and Non-Relational Database Modeling 
-- User Authentication
+- TDD/BDD
+- RDBMS/NoSQL
+- User Auth
 - API Integration
 
 ### Frontend Proficiencies
-- HTML5
-- CSS3
-- JavaScript
 - ES6
 - React
 - Redux
