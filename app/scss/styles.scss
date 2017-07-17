@@ -313,12 +313,14 @@ ol,#nicole-sandry {
   }
 
 	#tech-skills-col-print {
-    -webkit-columns: 16em;
-    -moz-columns: 16em;
-    columns: 16em;
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
 
     .skills {
-      break-inside: avoid;
+      ul {
+        list-style-type: none;
+      }
     }
 	}
 }
