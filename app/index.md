@@ -15,16 +15,14 @@
 
 ## Professional Experience
 
-### Executive Assistant
-#### Handcrafted Restaurants, LLC
-##### HI Aug 2013 – Present  
-- Assist C-suite executives with the daily operations of existing and developing restaurant concepts
-- Coordinate with third party developers and designers to maintain company websites and storefronts
-- Manage online reputation and marketing while building a following of 4,000+ on Instagram and 12,000+ on Facebook
-- Established social media guidelines to maintain brand consistency and messaging on Instagram and Facebook
-- Design print collateral, magazine ads, banners, posters, signage, and photography
-- Established menu editing protocols in the General Operating Manual to maintain brand and product consistency
-- Assist with investor relations
+### Office Manager, Social Media Manager, PR & Marketing Coordinator
+#### [Handcrafted Restaurants](http://www.handcraftedrestaurants.com/)
+##### HI Aug 2013 – December 2017
+- Coordinated with third party developers and designers to maintain company websites and storefronts
+- Managed online reputation and marketing while building a following of 5,000+ on Instagram and 12,000+ on Facebook
+- Designed print collateral, magazine ads, banners, posters, signage, and photography
+- Established menu editing protocols to maintain brand and product consistency across three restaurant concepts
+- Aided in the development of two restaurant concepts
 
 ### Resident Assistant
 #### Office of Residential Life & Housing Services at New York University
@@ -91,4 +89,3 @@
 - Adobe Photoshop CC
 - Adobe Illustrator CC
 - Adobe Lightroom CC
-- Google AdWords
